@@ -1,0 +1,350 @@
+
+public class Details 
+{
+    private String dpicture;      
+    private String dmedicalRecordNumber;       
+    private String dallergyOne;       
+    private String dallergyTwo;      
+    private String dFirstName;
+    private String dLastName;
+    private String dPhoneNumber;
+    private String dDateOfBirth;
+    private String dAge;
+    private String dHeight;
+    private String dWeight;
+    private String dSsn; 
+    private String dstreetAddress;
+    private String dcity;
+    private String dstate; 
+    private String dzipCode;       
+    private String dsavingBankName;       
+    private String dsavingRoutingNumber;    
+    private String dsavingAccountNumber;       
+    private String dsavingAccountBalance;     
+    private String dsavingAccountType;       
+    private String dcheckingBankName;       
+    private String dcheckingRoutingNumber;       
+    private String dcheckingAccountNumber;
+    private String dcheckingAccountBalance;       
+    private String dcheckingAccountType;       
+    private String dlicenseNumber;       
+    private String dissueDate;       
+    private String dvalidDate;       
+    private String dbloodGroup;       
+    private String dallergyThree;
+
+    public String getdFirstName() 
+    {
+        return dFirstName;
+    }
+
+    public void setdFirstName(String dFirstName)
+    {
+        this.dFirstName = dFirstName;
+    }
+
+    public String getdLastName() 
+    {
+        return dLastName;
+    }
+
+    public void setdLastName(String dLastName)
+    {
+        this.dLastName = dLastName;
+    }
+
+    public String getdPhoneNumber()
+    {
+        return dPhoneNumber;
+    }
+
+    public void setdPhoneNumber(String dPhoneNumber)
+    {
+        this.dPhoneNumber = dPhoneNumber;
+    }
+
+    public String getdDateOfBirth() 
+    {
+        return dDateOfBirth;
+    }
+
+    public void setdDateOfBirth(String dDateOfBirth) 
+    {
+        this.dDateOfBirth = dDateOfBirth;
+    }
+
+    public String getdAge() 
+    {
+        return dAge;
+    }
+
+    public void setdAge(String dAge) 
+    {
+        this.dAge = dAge;
+    }
+
+    public String getdHeight() 
+    {
+        return dHeight;
+    }
+
+    public void setdHeight(String dHeight) 
+    {
+        this.dHeight = dHeight;
+    }
+
+    public String getdWeight() 
+    {
+        return dWeight;
+    }
+
+    public void setdWeight(String dWeight)
+    {
+        this.dWeight = dWeight;
+    }
+
+
+    public String getdSsn() 
+    {
+        return dSsn;
+    }
+
+
+    public void setdSsn(String dSsn) 
+    {
+        this.dSsn = dSsn;
+    }
+
+    public String getDstreetAddress() 
+    {
+        return dstreetAddress;
+    }
+
+    public void setDstreetAddress(String dstreetAddress) 
+    {
+        this.dstreetAddress = dstreetAddress;
+    }
+
+    public String getDcity()
+    {
+        return dcity;
+    }
+
+ 
+    public void setDcity(String dcity) 
+    {
+        this.dcity = dcity;
+    }
+
+
+    public String getDstate()
+    {
+        return dstate;
+    }
+
+    public void setDstate(String dstate) 
+    {
+        this.dstate = dstate;
+    }
+
+    public String getDzipCode()
+    {
+        return dzipCode;
+    }
+
+    public void setDzipCode(String dzipCode) 
+    {
+        this.dzipCode = dzipCode;
+    }
+
+    public String getDsavingBankName() 
+    {
+        return dsavingBankName;
+    }
+
+    public void setDsavingBankName(String dsavingBankName) 
+    {
+        this.dsavingBankName = dsavingBankName;
+    }
+
+    public String getDsavingRoutingNumber() 
+    {
+        return dsavingRoutingNumber;
+    }
+
+    public void setDsavingRoutingNumber(String dsavingRoutingNumber) 
+    {
+        this.dsavingRoutingNumber = dsavingRoutingNumber;
+    }
+
+    public String getDsavingAccountNumber() 
+    {
+        return dsavingAccountNumber;
+    }
+
+    public void setDsavingAccountNumber(String dsavingAccountNumber) 
+    {
+        this.dsavingAccountNumber = dsavingAccountNumber;
+    }
+
+    public String getDsavingAccountBalance() 
+    {
+        return dsavingAccountBalance;
+    }
+
+    public void setDsavingAccountBalance(String dsavingAccountBalance)
+    {
+        this.dsavingAccountBalance = dsavingAccountBalance;
+    }
+
+    public String getDsavingAccountType() 
+    {
+        return dsavingAccountType;
+    }
+
+    public void setDsavingAccountType(String dsavingAccountType) 
+    {
+        this.dsavingAccountType = dsavingAccountType;
+    }
+
+    public String getDcheckingBankName() 
+    {
+        return dcheckingBankName;
+    }
+
+    public void setDcheckingBankName(String dcheckingBankName) 
+    {
+        this.dcheckingBankName = dcheckingBankName;
+    }
+
+    public String getDcheckingRoutingNumber()
+    {
+        return dcheckingRoutingNumber;
+    }
+
+    public void setDcheckingRoutingNumber(String dcheckingRoutingNumber) 
+    {
+        this.dcheckingRoutingNumber = dcheckingRoutingNumber;
+    }
+
+    public String getDcheckingAccountNumber()
+    {
+        return dcheckingAccountNumber;
+    }
+
+    public void setDcheckingAccountNumber(String dcheckingAccountNumber)
+    {
+        this.dcheckingAccountNumber = dcheckingAccountNumber;
+    }
+
+    public String getDcheckingAccountBalance() 
+    {
+        return dcheckingAccountBalance;
+    }
+
+
+    public void setDcheckingAccountBalance(String dcheckingAccountBalance)
+    {
+        this.dcheckingAccountBalance = dcheckingAccountBalance;
+    }
+
+    public String getDcheckingAccountType()
+    {
+        return dcheckingAccountType;
+    }
+
+    public void setDcheckingAccountType(String dcheckingAccountType) 
+    {
+        this.dcheckingAccountType = dcheckingAccountType;
+    }
+
+    public String getDlicenseNumber() 
+    {
+        return dlicenseNumber;
+    }
+
+    public void setDlicenseNumber(String dlicenseNumber)
+    {
+        this.dlicenseNumber = dlicenseNumber;
+    }
+
+    public String getDissueDate()
+    {
+        return dissueDate;
+    }
+
+    public void setDissueDate(String dissueDate)
+    {
+        this.dissueDate = dissueDate;
+    }
+
+    public String getDvalidDate() 
+    {
+        return dvalidDate;
+    }
+
+    public void setDvalidDate(String dvalidDate)
+    {
+        this.dvalidDate = dvalidDate;
+    }
+
+    public String getDbloodGroup() 
+    {
+        return dbloodGroup;
+    }
+
+    public void setDbloodGroup(String dbloodGroup)
+    {
+        this.dbloodGroup = dbloodGroup;
+    }
+
+    public String getDpicture() 
+    {
+        return dpicture;
+    }
+
+    public void setDpicture(String dpicture) 
+    {
+        this.dpicture = dpicture;
+    }
+
+    public String getDmedicalRecordNumber() 
+    {
+        return dmedicalRecordNumber;
+    }
+
+    public void setDmedicalRecordNumber(String dmedicalRecordNumber) 
+    {
+        this.dmedicalRecordNumber = dmedicalRecordNumber;
+    }
+
+    public String getDallergyOne() 
+    {
+        return dallergyOne;
+    }
+
+    public void setDallergyOne(String dallergyOne) 
+    {
+        this.dallergyOne = dallergyOne;
+    }
+
+    public String getDallergyTwo() 
+    {
+        return dallergyTwo;
+    }
+
+    public void setDallergyTwo(String dallergyTwo) 
+    {
+        this.dallergyTwo = dallergyTwo;
+    }
+
+    public String getDallergyThree() 
+    {
+        return dallergyThree;
+    }
+
+    public void setDallergyThree(String dallergyThree) 
+    {
+        this.dallergyThree = dallergyThree;
+    }
+}
